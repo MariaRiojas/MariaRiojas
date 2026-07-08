@@ -1,62 +1,78 @@
-<!-- María Jesús - Dev & AWS Architect -->
+<!-- María Jesús Riojas Concha — Cloud & Generative AI Engineer -->
 
-<h1 align="center">☁️ María Jesús - Cloud Developer & AWS Architect</h1>
+<h1 align="center">María Jesús Riojas Concha</h1>
+
+<p align="center">
+  <b>Cloud &amp; Generative AI Engineer · "Policy Engineer"</b><br/>
+  Building production agentic-AI systems and civic tech at the intersection of code and public accountability.<br/>
+  📍 Lima, Peru
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Amazon%20Bedrock-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-5aa6e7?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Serverless-Cloud%20First-5aa6e7?style=for-the-badge"/>
-</p>
-
-<p align="center">
-  <b>Arquitecta de soluciones en la nube | Developer con enfoque serverless | Apasionada por automatizar y optimizar</b>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
 ---
 
-<h2>🔧 Tecnologías principales</h2>
+## 👋 About
 
-<ul>
-  <li><b>AWS:</b> Lambda, API Gateway, DynamoDB, S3, IAM, CloudFormation, EventBridge, Step Functions</li>
-  <li><b>Backend:</b> Node.js, Python, Express, RESTful APIs</li>
-  <li><b>Frontend:</b> React, Vite, Bootstrap, TailwindCSS</li>
-  <li><b>DevOps:</b> GitHub Actions, Docker, CI/CD, Monorepos</li>
-</ul>
+Cloud Backend & Generative AI Engineer with ~3.5 years of experience building and shipping **production AI systems on AWS**, with a background in Political Science and Government. I design generative-AI agents — Amazon Connect, Bedrock, Lex, Kendra, RAG pipelines and multi-agent architectures — including **multilingual support for indigenous Peruvian languages** (Quechua, Aymara, Shipibo-Konibo).
+
+I think of myself as a **"policy engineer"**: I treat code and governance as a single craft, and build civic-technology that makes public institutions more accountable. I also create **developer education in Spanish for the Latin American community**.
 
 ---
 
-<h2>📂 Repositorios destacados</h2>
+## 🧰 Stack
 
-- 🔐 <a href="https://github.com/mariajesus.cloud/aws-serverless-ticketing">Sistema de tickets con AWS y Lambda</a>  
-  <i>Gestión de tickets usando Amazon Lex, Bedrock y funciones Lambda.</i>
-
-- 🌐 <a href="https://github.com/mariajesus.cloud/static-cloudfront-cicd">Web estática con CloudFront y CI/CD</a>  
-  <i>Infraestructura desplegada con CloudFormation y pipeline automatizado en CodePipeline.</i>
-
-- 📬 <a href="https://github.com/mariajesus.cloud/graphapi-outlook">Conector Graph API + AWS Lambda</a>  
-  <i>Lectura de correos de Outlook y envío a AWS mediante Lambda y Pub/Sub.</i>
+- **Generative & Agentic AI:** Amazon Bedrock, Lex, Kendra, S3 Vectors · RAG pipelines · multi-agent architectures · **MCP (Model Context Protocol)**
+- **Cloud & Serverless:** AWS (Connect, Lambda, API Gateway, Cognito, DynamoDB, SQS, CloudWatch, Aurora, S3, CloudFormation) · GCP
+- **Data & ETL:** AWS Glue · streaming ETL · QuickSight
+- **Development:** Python · TypeScript · JavaScript · React · Next.js · Node.js · Docker · CI/CD
 
 ---
 
-<h2>🧠 En progreso</h2>
+## 🚀 Featured Projects
 
-- Certificación AWS Professional Architect
-- Implementación de chatbot multicanal con Amazon Connect + Lex + Bedrock
-- Desarrollo de APIs para integración con GLPI y gestión TI
+> ⚠️ **Add your real repo / live-demo links** in the brackets below — the previous links were broken.
+
+- 🏛️ **Licitrack AI** — [link]
+  <i>AI platform that audits Peru's public procurement using open OSCE data, with citizen-facing chatbots and an AWS-based alerting system. Semifinalist, CAF "Corrupción Cero".</i>
+
+- ☀️ **GalapaOS** — [link]
+  <i>AI solar-ramp nowcasting system for the San Cristóbal Island (Galápagos) microgrid; reduced prediction error from ~40% to ~17%. Led an 8-person international team. Technical paper under peer review. 2nd place, SALA 2026 Hackathon.</i>
+
+- 🛡️ **SocialEye** — [link]
+  <i>AI anti-bullying detection platform. 1st place, Innovathon UNI 2024; currently in incubation.</i>
+
+- 🚒 **Bomberos de Ancón — Web System** — [link]
+  <i>Institutional web app for a volunteer fire company: recruit registration and internal administration. React · Next.js · Supabase.</i>
 
 ---
 
-<h2>📫 Contacto</h2>
+## 🌱 Currently
+
+- Building GenAI conversational agents and **MCP integrations in production** at Manantial Tecnológico
+- Creating **agentic-AI developer education in Spanish** for the LatAm community
+- Preparing the **GalapaOS** technical paper for journal submission
+- Anti-corruption tech in collaboration with **Transparencia Perú**
+
+---
+
+## 📫 Connect
 
 <p>
-  💼 <a href="https://www.linkedin.com/in/mariajesusriojas">LinkedIn</a> |
-  📧 riojas310@gmail.com |
-  💻 <a href="https://github.com/mariajesus.cloud">GitHub</a>
+  💼 <a href="https://www.linkedin.com/in/mariariojasconcha/">LinkedIn</a> &nbsp;·&nbsp;
+  📧 riojas310@gmail.com &nbsp;·&nbsp;
+  💻 <a href="https://github.com/MariaRiojas">GitHub</a>
 </p>
 
 ---
 
 <p align="center">
-  <i>"Construir soluciones que escalen, sirvan y transformen."</i>
+  <i>"Building solutions that scale, serve, and transform."</i>
 </p>
